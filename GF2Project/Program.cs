@@ -2,7 +2,7 @@
 using System.IO;        // namespace til filen
 using System.Threading; // namespace til delay forsinkelse
 
-// PUSHED TO GITHUB
+
 
 namespace GF2FinalProjekt
 {
